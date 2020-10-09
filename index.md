@@ -1,6 +1,6 @@
 Hullo
 
-	<a href="story.html">Digital Dexterity</a>
+	 Some sentence that ends with [Digital Dexterity] (https://github.com/GriffithUniLibrary/digital-dexterity/edit/gh-pages/story.html)
 
 ## Welcome to GitHub Pages
 
