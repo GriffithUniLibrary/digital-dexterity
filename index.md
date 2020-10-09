@@ -1,6 +1,6 @@
 Hullo
 
-[Digital Dexterity](https://griffithunilibrary.github.io/digital-dexterity/story.html)
+[Digital Dexterity](https://griffithunilibrary.github.io/digital-dexterity/stor.html)
 
 ## Welcome to GitHub Pages
 
