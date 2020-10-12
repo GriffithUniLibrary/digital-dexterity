@@ -1,5 +1,8 @@
 theme: jekyll-theme-slate
 
+title: myCustomTitle
+description: myCustomAndDetailedDescription
+
 plugins:
   - jekyll-relative-links
   
