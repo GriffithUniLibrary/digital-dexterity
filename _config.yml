@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: myCustomTitle
-description: myCustomAndDetailedDescription
+title: # Digital Dexterity
+description: Home of the Digital Dexterity self assessment tool created by the Griffith University Library.
 
 plugins:
   - jekyll-relative-links
