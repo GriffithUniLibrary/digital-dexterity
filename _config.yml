@@ -10,8 +10,8 @@ title: Digital Dexterity
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
-<script src="https://kit.fontawesome.com/391a4c525d.js" crossorigin="anonymous"></script>
-title-icon: <i class="fas fa-caret-square-right"></i>
+
+title-icon: fas fa-caret-square-right
 # description and keywords for meta tags
 description: Home of the Digital Dexterity self assessment tool<br /> created by the Griffith University Library.
 keywords:
