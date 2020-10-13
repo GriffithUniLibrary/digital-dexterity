@@ -5,8 +5,12 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+    <script src="https://kit.fontawesome.com/391a4c525d.js" crossorigin="anonymous"></script>
 {% seo %}
   </head>
 
@@ -20,6 +24,7 @@
           {% endif %}
           <img src="images/Library-social-logo-rev.png" alt="Griffith Library Logo" />
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <hr />
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}

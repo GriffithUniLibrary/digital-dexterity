@@ -4,7 +4,45 @@
 @import "jekyll-theme-slate";
 
 img {
-      border: 0px;
+  position: relative;
+  margin: 0 auto;
+  max-width: 739px;
+  padding: 5px;
+  margin: 10px 0 10px 0;
+  border: 0px solid #ebebeb;
+
+  box-shadow: 0 0 0px #ebebeb;
+  -webkit-box-shadow: 0 0 0px #ebebeb;
+  -moz-box-shadow: 0 0 0px #ebebeb;
+  -o-box-shadow: 0 0 0px #ebebeb;
+  -ms-box-shadow: 0 0 0px #ebebeb;
+}
+
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  width: 70%;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+hr {
+  border: 1px solid white;
+}
+
+.btn btn-secondary {
+  background-color: #2196F3;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
 }
 
 /*
