@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 
-# _config.yml adapted advanced-data-wrangle, an adaption of workshop-template-b, evanwill
+# _config.yml adapted from advanced-data-wrangle, an adaption of workshop-template-b, evanwill
 # https://github.com/GriffithUniLibrary/Advanced-data-wrangle and https://github.com/evanwill/workshop-template-b
 # Applying a bit of control to the Jekyll template 
 
@@ -11,10 +11,10 @@ title: Digital Dexterity
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
 
-title-icon: fas fa-caret-square-right
+title-icon: 
 # description and keywords for meta tags
 description: Home of the Digital Dexterity self assessment tool<br /> created by the Griffith University Library.
-keywords:
+keywords: "Digital Dexterity, digital literacy self assessment"
 
 # add the full url for the github repository
 repo: "https://griffithunilibrary.github.io/digital-dexterity/"
