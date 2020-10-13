@@ -1,5 +1,6 @@
 Blurb around purpose.
 
+<center><button type="button" class="btn btn-secondary"><a href="story.html">Take the quiz!<a/></button></center)
 
 [Take the quiz](https://griffithunilibrary.github.io/digital-dexterity/stor.html)
 
@@ -9,4 +10,4 @@ Blurb around purpose.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
-<button type="button" class="btn btn-secondary">Secondary</button>
+
