@@ -4,7 +4,29 @@
 @import "jekyll-theme-slate";
 
 img {
-      border: 0px;
+  position: relative;
+  margin: 0 auto;
+  max-width: 739px;
+  padding: 5px;
+  margin: 10px 0 10px 0;
+  border: 0px solid #ebebeb;
+
+  box-shadow: 0 0 0px #ebebeb;
+  -webkit-box-shadow: 0 0 5px #ebebeb;
+  -moz-box-shadow: 0 0 5px #ebebeb;
+  -o-box-shadow: 0 0 5px #ebebeb;
+  -ms-box-shadow: 0 0 5px #ebebeb;
+}
+
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  width: 70%;
+  padding: 20px 10px;
+  margin: 0 auto;
 }
 
 /*
