@@ -22,7 +22,7 @@ repo: "https://griffithunilibrary.github.io/digital-dexterity/"
 # add google analytics if desired (optional)
 # if blank, it will be ignored
 # use JEKYLL_ENV=production on build command
-google_analytics: 
+google_analytics: UA-139142134-4 
 
 
 
