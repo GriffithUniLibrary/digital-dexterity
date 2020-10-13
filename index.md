@@ -3,7 +3,6 @@ Blurb around purpose.
 
 [Take the quiz](https://griffithunilibrary.github.io/digital-dexterity/stor.html)
 
-{% include button.md text="Bootstrap Docs" link="story.html" color="info" %}
 
 <p></p>
 
