@@ -1,9 +1,6 @@
 Blurb around purpose.
 
-<center><button type="button" class="btn btn-secondary"><a href="story.html">Take the quiz!</a></button></center)
-
-[Take the quiz](https://griffithunilibrary.github.io/digital-dexterity/stor.html)
-
+<center><button type="button" class="btn btn-secondary"><a href="story.html">Take the quiz!</a></button></center>
 
 <p></p>
 
