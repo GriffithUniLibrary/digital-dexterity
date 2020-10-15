@@ -1,7 +1,7 @@
 Blurb around purpose.
 blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah, blah, blah, blahdy-blah!!
 <p></p>
-<center><button type="button" class="btn btn-secondary"><a href="story.html">Take the quiz!</a></button></center>
+<center><button type="button" class="btn btn-secondary"><a href="story.html" target="_blank">Take the quiz!</a></button></center>
 <p></p>
 <p></p>
 <p></p>
