@@ -11,7 +11,9 @@ The results are just for you, to give you an understanding of what you already k
 <p></p>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> This work is licensed under a<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.      
 
-<br \><br \>
+<p></p>
+<p></p>
+
 Read the [background](background.md) to this initiative. 
 
 
