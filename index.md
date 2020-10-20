@@ -1,5 +1,3 @@
-## What is Digital Dexterity?
-
 Digital dexterity encompasses a range of skills for working, learning and living digitally. Within the next five years, 90 per cent of people will use digital skills to perform their work, so building your digital competence has never been more important.
 
 This Digital Dexterity Self-assessment Quiz will help you identify your strengths in specific digital skills, and identify the ones that might need a brush up. The quiz will assess your skills with different aspects of digital dexterity and point you towards resources to deepen your knowledge and understanding.
