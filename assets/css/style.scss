@@ -52,12 +52,12 @@ img {
 }
 
 hr {
-  border: 1px solid white;
+  border: 1px none white;
 }
 
 .quiz-btn {
   background-color: #2196F3;
-  border: none;
+  border: 5px solid grey;
   color: #000000;
   padding: 10px;
   
