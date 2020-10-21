@@ -8,4 +8,4 @@ Digital Dexterity encompasses basic digital and information literacies, but also
 
 By developing local Digital Dexterity support materials, Australian universities and their libraries are helping students and staff acquire the skills and knowledge required to thrive in an increasingly digital world.
 
-Read more about CAUL's [Digital Dexterity project](https://www.caul.edu.au/programs-projects/digital-dexterity-new-skills-learning-and-research-excellence). 
+Read more about CAUL's [Digital Dexterity project](https://www.caul.edu.au/programs-projects/digital-dexterity-new-skills-learning-and-research-excellence) or return to [Griffith's Digital Dexterity self assessment tool](https://griffithunilibrary.github.io/digital-dexterity/). 
