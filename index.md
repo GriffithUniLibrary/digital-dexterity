@@ -5,7 +5,7 @@ This Digital Dexterity Self-assessment Quiz will help you identify your strength
 The results are just for you, to give you an understanding of what you already know and still might need to learn. You can take the quiz any number of times.
 <p></p>
 <p></p>
-<center><button type="button" class="btn btn-secondary"><a href="story.html" target="_blank">Take the quiz!</a></button></center>
+<center></center>
 <p></p>
 <p></p>
 Read the [background](background.md) to this initiative.
