@@ -72,6 +72,11 @@ hr {
   //padding-right: 20px;
 }
 
+.quiz-btn:hover {
+  background-color: #a52c2b;
+  margin: 15px 7px;
+}
+
 .quiz-btn a {
   color: #ffffff;
   text-decoration: none;
@@ -79,8 +84,6 @@ hr {
 
 .quiz-btn a:hover {
   text-decoration: underline;
-  background-color: #a52c2b;
-  margin: 15px 7px;
 }
 
 .quiz-btn a:active {
