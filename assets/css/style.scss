@@ -116,10 +116,13 @@ hr {
   text-decoration: none;
 }
 
-/*
-a {
-      color: #fff;
-      text-decoration: none;
-      border-bottom: dashed 1px #ccc;
-    }
-*/
+
+/*******************************************************************************
+Small Device Styles
+*******************************************************************************/
+
+@media screen and (max-width: 1920px) {
+  img {
+    max-width: 100%;
+  }
+}
