@@ -15,7 +15,7 @@ body {
 
 .inner {
   position: relative;
-  width: 700px;
+  width: 960px;
   padding: 5px 10px;
   margin: 0 auto;
 }
@@ -39,11 +39,11 @@ body {
 
 #header_wrap {
   background: #2f323b;
-  background: -moz-linear-gradient(top, #373737, #2f323b);
-  background: -webkit-linear-gradient(top, #373737, #2f323b); // #373737 to #212121
-  background: -ms-linear-gradient(top, #373737, #2f323b);
-  background: -o-linear-gradient(top, #373737, #2f323b);
-  background: linear-gradient(to top, #373737, #2f323b);
+  background: -moz-linear-gradient(top, #2f323b, #2f323b);
+  background: -webkit-linear-gradient(top, #2f323b, #2f323b); // #373737 to #212121
+  background: -ms-linear-gradient(top, #2f323b, #2f323b);
+  background: -o-linear-gradient(top, #2f323b, #2f323b);
+  background: linear-gradient(to top, #2f323b, #2f323b);
 }
 
 #footer_wrap {
