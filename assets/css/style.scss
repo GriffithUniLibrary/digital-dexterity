@@ -78,7 +78,7 @@ hr {
 
 .quiz-btn {
   position: relative;
-  //top: 50%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   
@@ -116,13 +116,3 @@ hr {
   text-decoration: none;
 }
 
-
-/*******************************************************************************
-Small Device Styles
-*******************************************************************************/
-
-@media screen and (max-width: 1920px) {
-  img {
-    max-width: 100%;
-  }
-}
