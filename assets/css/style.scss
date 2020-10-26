@@ -74,7 +74,16 @@ hr {
 
 .quiz-btn a {
   color: #ffffff;
+  text-decoration: none;
+}
+
+.quiz-btn a:hover {
   text-decoration: underline;
+}
+
+.quiz-btn a:active {
+  color: #fffff0;
+  text-decoration: none;
 }
 
 /*
