@@ -54,7 +54,7 @@ body {
 // aesthethics
 
 img {
-  position: absolute;
+  position: relative;
   margin: 0 auto;
   max-width: 739px;
   padding: 5px;
@@ -73,6 +73,11 @@ hr {
 }
 
 .quiz-btn {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
   background-color: #e30918;
   border: 1px solid #75787b;
   color: #000000;
@@ -80,11 +85,10 @@ hr {
   
   text-align: center;
   font-weight: bold;
-  display: inline-block;
+  //display: inline-block;
   font-size: 24px;
   margin: 15px 7px;
   
-  float: right; 
   //padding-top:100px;
   //padding-right: 20px;
 }
