@@ -1157,13 +1157,19 @@
   </colorschemes>
   <string_tables>
     <string_table name="npxabnsnfns00000000101">
+      <string id="accessible_text">Accessible text</string>
       <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to menu</string>
       <string id="close">Close</string>
       <string id="acc_closed_captions">Closed captions.</string>
+      <string id="closed_captions_tip">Closed Captions</string>
       <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
       <string id="exit">Exit</string>
       <string id="filter">Filter</string>
       <string id="finish">FINISH</string>
@@ -1175,23 +1181,37 @@
       <string id="action">Action</string>
       <string id="keyboardshortcuts">Keyboard Shortcuts</string>
       <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / Unmute</string>
+      <string id="next_shortcut">Next Slide</string>
+      <string id="playpause_shortcut">Play / Pause</string>
+      <string id="previous_shortcut">Previous Slide</string>
       <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit Slide</string>
       <string id="togglezoom">Switch zoom modes</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
       <string id="outline">Menu</string>
       <string id="disabled_orientation">Please rotate your device</string>
+      <string id="mute_tip">Mute</string>
       <string id="next">NEXT</string>
       <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next Slide</string>
       <string id="transcript_chk">Notes</string>
       <string id="transcript">Notes</string>
       <string id="bio">Bio</string>
       <string id="more_info">More info</string>
       <string id="closed_captions">Captions</string>
       <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
       <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
       <string id="send_an_email">Send an email</string>
       <string id="prev">PREV</string>
       <string id="acc_previous">previous</string>
+      <string id="previous_slide_tip">Previous Slide</string>
       <string id="question_list">Question List</string>
+      <string id="replay_shortcut">Replay Slide</string>
+      <string id="replay_tip">Replay Slide</string>
       <string id="acc_replay">replay</string>
       <string id="resources">Resources</string>
       <string id="acc_resources">resources</string>
@@ -1205,13 +1225,19 @@
       <string id="search">Search...</string>
       <string id="search_in">Search in:</string>
       <string id="search_results">Search Results</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
       <string id="acc_skipnavigation">Back to top</string>
       <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
       <string id="submitall">SUBMIT ALL</string>
       <string id="acc_submitall">submit all</string>
       <string id="submit">NEXT</string>
       <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
       <string id="acc_volume">volume</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
     </string_table>
   </string_tables>
   <fonts>
