@@ -2,7 +2,7 @@ Digital dexterity encompasses a range of skills for working, learning and living
 
 This Digital Dexterity Self-assessment Quiz will help you identify your strengths in specific digital skills, and identify the ones that might need a brush up. The quiz will assess your skills with different aspects of digital dexterity and point you towards resources to deepen your knowledge and understanding.
 
-<button type="button" class="quiz-btn"><a href="stor-y.html" target="_blank">Take the quiz!</a></button>
+<button type="button" class="quiz-btn"><a href="dd_quiz/story.html" target="_blank">Take the quiz!</a></button>
 
 The results are just for you, to give you an understanding of what you already know and still might need to learn. You can take the quiz any number of times.
 
