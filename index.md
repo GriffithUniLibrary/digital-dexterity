@@ -6,7 +6,7 @@ This Digital Dexterity Self-assessment Quiz will help you identify your strength
 
 The results are just for you, to give you an understanding of what you already know and still might need to learn. You can take the quiz any number of times.
 
-Read the [background](background.md) to this initiative.
+Read the [background](background.md) to this initiative. If you would like to provide us with some feedback on your experience with the quiz, please make use of this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYkpLImjKg9FCo91RTjhER85UN0c2WVg5TFg0MElCVEtMWk1KSUVTNEpBQiQlQCN0PWcu">form</a>.
 
 <hr />
 
